@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0004/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0004/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 老君變化無極經
+  date: '2015-08-29 02:25:23.690262'
+  source:
+    repository: kanripo
+    path: KR5g0004
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0004_000-ZTDZ.yaml, hash: 'sha256:e6fa523a4c56e1e41a5b8f3166a3fafa885ec0f8fcb910d4ee27f26f0ee26115'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0004_000-ZTDZ.markers.yaml, hash: 'sha256:0b69373b72687be80ef1112997c32427632e0519adbc01b5b66721d27aee15be'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0004_SJB_000-280371c
+    span:
+    - body
+    - 0
+    - 2641
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:7c59100f86c5008e0bd29c58566186de1bc400e3c28b86bba05f6b0d8b8780fd
